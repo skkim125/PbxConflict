@@ -51,7 +51,7 @@
 		04A548112CB4CCDA0008FB3B /* PbxConflict */ = {
 			isa = PBXGroup;
 			children = (
-				04A548202CB4D0470008FB3B /* Harvey */,
+				04A548212CB4D1D00008FB3B /* Query */,
 				04A548162CB4CCDC0008FB3B /* Assets.xcassets */,
 				04A548182CB4CCDC0008FB3B /* Preview Content */,
 			);
@@ -66,13 +66,13 @@
 			path = "Preview Content";
 			sourceTree = "<group>";
 		};
-		04A548202CB4D0470008FB3B /* Harvey */ = {
+		04A548212CB4D1D00008FB3B /* Query */ = {
 			isa = PBXGroup;
 			children = (
 				04A548122CB4CCDA0008FB3B /* PbxConflictApp.swift */,
 				04A548142CB4CCDA0008FB3B /* ContentView.swift */,
 			);
-			path = Harvey;
+			path = Query;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
